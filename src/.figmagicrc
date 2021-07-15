@@ -1,0 +1,16 @@
+{
+  "fontUnit": "rem",
+  "outputFileName": "figma.json",
+  "outputFolderBaseFile": ".figmagic",
+  "outputFolderTokens": "src/ui/designtokens",
+  "outputTokenFormat": "ts",
+  "outputFolderElements": "elements",
+  "spacingUnit": "rem",
+  "remSize": 14,
+  "usePostscriptFontNames": true,
+  "templates": {
+    "templatePathReact": "./node_modules/figmagic/templates/react.jsx",
+    "templatePathStyled": "./node_modules/figmagic/templates/styled.jsx",
+    "templatePathStorybook": "./node_modules/figmagic/templates/story.js"
+  }
+}

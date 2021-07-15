@@ -1,0 +1,26 @@
+{
+	"cSpell.words": ["browserslist", "figmagic", "oidc", "devtools", "toastify", "rebass"],
+	"[javascriptreact]": {
+		"editor.formatOnSave": false
+	},
+	"[javascript]": {
+		"editor.formatOnSave": false
+	},
+	"editor.formatOnPaste": true,
+	"editor.formatOnSave": true,
+	"editor.wordWrap": "on",
+	"editor.rulers": [100, 140],
+	"editor.matchBrackets": "always",
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": true
+	},
+	"prettier.disableLanguages": ["javascript", "javascriptreact", "js"],
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.detectIndentation": true,
+	"files.exclude": {
+		"USE_GITIGNORE": true
+	},
+	"eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
+	"editor.smoothScrolling": true,
+	"breadcrumbs.enabled": true
+}
